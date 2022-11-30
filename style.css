@@ -1,0 +1,33 @@
+*{
+
+    padding:0%;
+    margin:0%;
+}
+.heading{
+        color:blue;
+        text-decoration: underline;
+        background-color:aqua
+}
+.button{
+        background-color: rgb(241, 240, 255);
+        color:rgb(175, 117, 47);
+        padding: 50px;
+        margin: 50px;
+        margin-left: 50%;
+      }
+      p{
+        font-size: 2ram;
+  
+        }
+     
+      .table{
+        border: 2px solid black;
+        font-size:2ram;
+      }
+
+      th{
+        border: 2px solid blue;
+      }
+      tb{
+        border: 2px solid blue;
+      }
